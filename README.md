@@ -19,6 +19,6 @@ Jak to ma działać?
 musimy je przekonwertować, żeby rzeczywiście były to liczby.
 3. Potem jeśli mamy już liczby, wykonujemy działanie i wypisujemy wynik na ekran.
 
-![alt text](IMAGE_1.PNG)
-![alt text](IMAGE_2.PNG)
-![alt text](IMAGE_3.PNG)
+![Screenshot](IMAGE_1.JPG)
+![Screenshot](IMAGE_2.JPG)
+![Screenshot](IMAGE_3.JPG)
